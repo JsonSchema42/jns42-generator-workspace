@@ -1,0 +1,4 @@
+[submodule "goodschema-ts"]
+	path = goodschema-ts
+	url = ../goodschema-ts
+	ignore = all
