@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "goodschema-ts"
+		},
+		{
+			"path": "goodschema-rs"
 		}
 	],
 	"settings": {}

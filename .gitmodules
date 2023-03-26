@@ -2,3 +2,7 @@
 	path = goodschema-ts
 	url = ../goodschema-ts
 	ignore = all
+[submodule "goodschema-rs"]
+	path = goodschema-rs
+	url = ../goodschema-rs
+	ignore = all
