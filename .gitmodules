@@ -1,8 +1,8 @@
-[submodule "goodschema-ts"]
-	path = goodschema-ts
-	url = ../goodschema-ts
+[submodule "jns42-generator-ts"]
+	path = jns42-generator-ts
+	url = ../jns42-generator-ts
 	ignore = all
-[submodule "goodschema-rs"]
-	path = goodschema-rs
-	url = ../goodschema-rs
+[submodule "jns42-generator-rs"]
+	path = jns42-generator-rs
+	url = ../jns42-generator-rs
 	ignore = all
